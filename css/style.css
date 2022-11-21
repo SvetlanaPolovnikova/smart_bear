@@ -2,7 +2,7 @@
 	font-family: 'Ermilov-bold'; 
     font-style: normal;
     font-weight: bold;
-	src: local('Ermilov'), url(Ermilov-bold.otf) format('otf'); 
+	src: local('Ermilov'), url(/Ermilov-bold.otf) format('otf'); 
 }
 
 @media (max-width: 5000px) and (min-width: 1440px) {
