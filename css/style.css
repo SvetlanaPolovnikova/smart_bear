@@ -257,7 +257,7 @@ h2{
     width: 815px;
 }
 .otziv_1{
-    background-image: url(png/otziv_bezh.png);
+    background-image: url(/png/otziv_bezh.png);
     background-repeat: no-repeat;
     background-size: 585px 205px;
     width: 585px;
@@ -268,7 +268,7 @@ h2{
     left: 70px;
 }
 .otziv_2{
-    background-image: url(png/otziv_brou.png);
+    background-image: url(/png/otziv_brou.png);
     background-repeat: no-repeat;
     background-size: 485px 185px;
     width: 485px;
@@ -279,7 +279,7 @@ h2{
     left: 800px;
 }
 .otziv_3{
-    background-image: url(png/otziv_brou.png);
+    background-image: url(/png/otziv_brou.png);
     background-repeat: no-repeat;
     background-size: 670px 230px;
     width: 670px;
@@ -290,7 +290,7 @@ h2{
     left: 135px;
 }
 .otziv_4{
-    background-image: url(png/otziv_bezh.png);
+    background-image: url(/png/otziv_bezh.png);
     background-repeat: no-repeat;
     background-size: 530px 185px;
     width: 530px;
@@ -340,7 +340,7 @@ h2{
     font-size: 20px;
 }
 .block5{
-    background-image: url(png/fon3.png);
+    background-image: url(/png/fon3.png);
     background-position: 0 160px;
     background-repeat: no-repeat;
 }
@@ -432,7 +432,7 @@ h2{
     width: 200px;
 }
 .fon{
-    background-image: url(png/fon.png);
+    background-image: url(/png/fon.png);
     background-repeat: no-repeat;
     background-position: -240px -450px;
 }
@@ -706,7 +706,7 @@ h2{
     font-size: 50px;
 }
 .otziv_1{
-    background-image: url(png/otziv_bezh.png);
+    background-image: url(/png/otziv_bezh.png);
     background-repeat: no-repeat;
     background-size: 410px 145px;
     width: 410px;
@@ -737,7 +737,7 @@ h2{
     
 }
 .otziv_2{
-    background-image: url(png/otziv_brou.png);
+    background-image: url(/png/otziv_brou.png);
     background-repeat: no-repeat;
     background-size: 282px 119px;
     width: 282px;
@@ -748,7 +748,7 @@ h2{
     left: 480px;
 }
 .otziv_3{
-    background-image: url(png/otziv_brou.png);
+    background-image: url(/png/otziv_brou.png);
     background-repeat: no-repeat;
     background-size: 405px 140px;
     width: 405px;
@@ -759,7 +759,7 @@ h2{
     left: 85px;
 }
 .otziv_4{
-    background-image: url(png/otziv_bezh.png);
+    background-image: url(/png/otziv_bezh.png);
     background-repeat: no-repeat;
     background-size: 338px 118px;
     width: 338px;
@@ -808,7 +808,7 @@ h2{
     font-size: 12px;
 }
 .block5{
-    background-image: url(png/fon3.png);
+    background-image: url(/png/fon3.png);
     background-position: 0 70px;
     background-repeat: no-repeat;
 }
@@ -900,7 +900,7 @@ h2{
     width: 145px;
 }
 .fon{
-    background-image: url(png/fon.png);
+    background-image: url(/png/fon.png);
     background-repeat: no-repeat;
     background-position: -345px -470px;
 }
@@ -1160,7 +1160,7 @@ h2{
         font-size: 35px;
     }
     .otziv_1{
-        background-image: url(png/otziv_bezh.png);
+        background-image: url(/png/otziv_bezh.png);
         background-repeat: no-repeat;
         background-size: 365px 130px;
         width: 365px;
@@ -1191,7 +1191,7 @@ h2{
         
     }
     .otziv_2{
-        background-image: url(png/otziv_brou.png);
+        background-image: url(/png/otziv_brou.png);
         background-repeat: no-repeat;
         background-size: 282px 119px;
         width: 282px;
@@ -1201,7 +1201,7 @@ h2{
         margin-left: 25px;
     }
     .otziv_3{
-        background-image: url(png/otziv_brou.png);
+        background-image: url(/png/otziv_brou.png);
         background-repeat: no-repeat;
         background-size: 350px 140px;
         width: 350px;
@@ -1211,7 +1211,7 @@ h2{
         margin-left: 25px;
     }
     .otziv_4{
-        background-image: url(png/otziv_bezh.png);
+        background-image: url(/png/otziv_bezh.png);
         background-repeat: no-repeat;
         background-size: 338px 118px;
         width: 338px;
@@ -1259,7 +1259,7 @@ h2{
         font-size: 12px;
     }
     .block5{
-        background-image: url(png/fon3.png);
+        background-image: url(/png/fon3.png);
         background-position: 0 70px;
         background-repeat: no-repeat;
     }
@@ -1349,7 +1349,7 @@ h2{
         width: 145px;
     }
     .fon{
-        background-image: url(png/fon.png);
+        background-image: url(/png/fon.png);
         background-repeat: no-repeat;
         background-position: -345px -470px;
     }
@@ -1610,7 +1610,7 @@ h2{
         font-size: 35px;
     }
     .otziv_1{
-        background-image: url(png/otziv_bezh.png);
+        background-image: url(/png/otziv_bezh.png);
         background-repeat: no-repeat;
         background-size: 365px 130px;
         width: 365px;
@@ -1641,7 +1641,7 @@ h2{
         
     }
     .otziv_2{
-        background-image: url(png/otziv_brou.png);
+        background-image: url(/png/otziv_brou.png);
         background-repeat: no-repeat;
         background-size: 282px 119px;
         width: 282px;
@@ -1651,7 +1651,7 @@ h2{
         margin-left: 25px;
     }
     .otziv_3{
-        background-image: url(png/otziv_brou.png);
+        background-image: url(/png/otziv_brou.png);
         background-repeat: no-repeat;
         background-size: 350px 140px;
         width: 350px;
@@ -1661,7 +1661,7 @@ h2{
         margin-left: 25px;
     }
     .otziv_4{
-        background-image: url(png/otziv_bezh.png);
+        background-image: url(/png/otziv_bezh.png);
         background-repeat: no-repeat;
         background-size: 338px 118px;
         width: 338px;
@@ -1709,7 +1709,7 @@ h2{
         font-size: 12px;
     }
     .block5{
-        background-image: url(png/fon3.png);
+        background-image: url(/png/fon3.png);
         background-position: 0 70px;
         background-repeat: no-repeat;
     }
@@ -1800,7 +1800,7 @@ h2{
     }
     .fon{
         width: 374px;
-        background-image: url(png/fon.png);
+        background-image: url(/png/fon.png);
         background-repeat: no-repeat;
         background-position: -345px -470px;
     }
