@@ -2,7 +2,7 @@
 	font-family: 'Ermilov-bold'; 
     font-style: normal;
     font-weight: bold;
-	src: local('Ermilov'), url(https://svetlanapolovnikova.github.io/smart_bear/css/Ermilov-bold.woff) ; 
+	src: url(https://svetlanapolovnikova.github.io/smart_bear/css/Ermilov-bold.ttf), format("ttf") ; 
 }
 
 @media (max-width: 5000px) and (min-width: 1440px) {
