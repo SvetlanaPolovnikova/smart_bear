@@ -7,7 +7,7 @@
 
 @media (max-width: 15000px) and (min-width: 1440px) {
     *{
-    font-family: 'Ermilov-blod';
+    font-family: 'Ermilov-bold';
     margin: 0;
     padding: 0;
 }
@@ -909,7 +909,7 @@ margin-bottom:20px;
 }
 @media (max-width: 767px) and (min-width: 1px) {
     *{
-        font-family: 'Ermilov-blod';
+        font-family: 'Ermilov-bold';
         margin: 0;
         padding: 0;
     }
@@ -1360,7 +1360,7 @@ margin-bottom:20px;
 
 @media (max-width: 374px) and (min-width: 1px) {
     *{
-        font-family: 'Ermilov-blod';
+        font-family: 'Ermilov-bold';
         margin: 0;
         padding: 0;
     }
