@@ -2,7 +2,7 @@
 	font-family: 'Ermilov-bold'; 
     font-style: normal;
     font-weight: bold;
-	src: url(https://svetlanapolovnikova.github.io/smart_bear/css/Ermilov-bold.otf) format("otf") ; 
+	src: url(https://svetlanapolovnikova.github.io/smart_bear/css/Ermilov-bold.ttf) format("ttf") ; 
 }
 
 @media (max-width: 15000px) and (min-width: 1440px) {
@@ -439,7 +439,7 @@ h2{
 }
 @media (max-width: 1439px) and (min-width: 768px) {
     *{
-    font-family: 'Ermilov-blod';
+    font-family: 'Ermilov-bold';
     margin: 0;
     padding: 0;
 }
