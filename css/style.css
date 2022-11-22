@@ -1,8 +1,8 @@
 @font-face {
-	font-family: 'Ermilov-bold'; 
+    font-family: 'Ermilov-bold'; 
     font-style: normal;
     font-weight: bold;
-	src: url(https://svetlanapolovnikova.github.io/smart_bear/css/Ermilov-bold.ttf) format("ttf") ; 
+    src: url(https://svetlanapolovnikova.github.io/smart_bear/css/Ermilov-bold.ttf) format("ttf") ; 
 }
 
 @media (max-width: 15000px) and (min-width: 1440px) {
