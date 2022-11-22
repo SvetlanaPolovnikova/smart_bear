@@ -866,6 +866,7 @@ margin-bottom:20px;
     width: 768px;
     display: flex;
     margin-bottom: 20px;
+	margin-left: 20px;
 
 }
 .contacts{
@@ -1054,7 +1055,7 @@ margin-bottom:20px;
         font-size: 35px;
         color: #311E13;
         width: 375px;
-        margin: 25px auto;
+        margin: 40px auto 0px;
     }  
     .card_block1{
         margin: 25px auto;
@@ -1723,7 +1724,7 @@ margin-bottom:20px;
         width: 374px;
     }
     .zapis_fon{
-        width: 100%;
+        width: 375px;
         margin: 10px auto;
     }
     .zapis_fon h3{
@@ -1784,6 +1785,7 @@ margin-bottom:20px;
         font-size:14px;
     }
     .seti{
+	    margin-left: 15px;
         margin-top: 10px;
         color: #311E13;
         display: inline-block;
