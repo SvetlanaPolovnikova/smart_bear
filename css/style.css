@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
 @font-face {
     font-family: 'Ermilov-bold'; 
     font-style: normal;
@@ -8,7 +8,7 @@
 
 @media (max-width: 15000px) and (min-width: 1440px) {
     *{
-    font-family: 'Ermilov-bold';
+    font-family: 'Roboto';
     margin: 0;
     padding: 0;
 }
@@ -440,7 +440,7 @@ h2{
 }
 @media (max-width: 1439px) and (min-width: 768px) {
     *{
-    font-family: 'Ermilov-bold';
+    font-family: 'Roboto';
     margin: 0;
     padding: 0;
 }
@@ -911,7 +911,7 @@ margin-bottom:20px;
 }
 @media (max-width: 767px) and (min-width: 375px) {
     *{
-        font-family: 'Ermilov-bold';
+        font-family: 'Roboto';
         margin: 0;
         padding: 0;
     }
@@ -1364,7 +1364,7 @@ margin-bottom:20px;
 
 @media (max-width: 374px) and (min-width: 1px) {
     *{
-        font-family: 'Ermilov-bold';
+        font-family: 'Roboto';
         margin: 0;
         padding: 0;
     }
